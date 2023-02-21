@@ -7,7 +7,7 @@
 <body>
     <h1 style="font-family: sans-serif;color: darkblue; background-color: aqua; text-align: center;">JUDUL WEB</h1>
     <h2><center>SUB JUDUL</center></h2>
-    <h3 style="text-align: right;">SUB JUDUL 2</h3>
+    <h3 style="text-align: center;">SUB JUDUL 2</h3>
     <h4>SUB JUDUL 3</h4>
     <p>deskripsi website..........................</p>
     <p style="border-style: groove;font-size: 30px;border-color: pink;">Deskripsi tentang pelayanan website</p>
